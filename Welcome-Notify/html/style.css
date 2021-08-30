@@ -1,0 +1,32 @@
+
+
+
+
+
+.helpnotify
+{
+  display: none;
+  position:absolute;
+  bottom: 910px;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  transition: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+}
+
+#notifytext {
+  transition: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  text-align: center;
+  color: white;
+}
+
+.colred {
+  color: rgb(236, 55, 55);
+}
+
